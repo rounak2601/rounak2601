@@ -12,11 +12,14 @@
 
 <!-- Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rounak2601&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views" />
-  <a href="mailto:Rounaktilante924@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rounak-tilante-a9719b257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rounak_tilante" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=rounak2601&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=302b63" alt="profile views" />
+  <a href="mailto:Rounaktilante924@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=social&logo=gmail&logoColor=EA4335" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rounak-tilante-a9719b257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=0A66C2" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/rounak_tilante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram&logoColor=E4405F" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-brightgreen?style=social&logo=checkmarx&logoColor=brightgreen" />
 </p>
 
 </div>
@@ -27,7 +30,7 @@
 
 Hi! I'm **Rounak Kumar Tilante**, a passionate and driven **Aspiring Data Scientist** from **Hyderabad, India** 📍
 
-I recently completed my **B.Tech in Computer Science** and a **Data Science Internship at INFOZ IT Solutions**, where I worked on real-world data problems — from cleaning 10K+ record datasets to building predictive ML models and interactive Power BI dashboards.
+I recently completed my **B.Tech in Computer Science** and a **Data Science Internship at INFOZ IT Solutions**, where I worked on real-world data problems — from cleaning 50K+ record datasets to building predictive ML models and interactive Power BI dashboards.
 
 I love finding patterns in messy data, building models that solve actual problems, and communicating insights through clean visualizations. I'm now actively seeking my first full-time role where I can contribute, grow, and keep learning every day.
 
@@ -102,11 +105,13 @@ I love finding patterns in messy data, building models that solve actual problem
 
 <div align="center">
 
-💡 *I'm actively looking for Data Science / Data Analyst roles. If you're hiring or just want to talk data — let's connect!*
+📩 *Open to full-time roles in Data Science & Analytics. Feel free to reach out — I'd love to explore opportunities and meaningful collaborations.*
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rounaktilante924@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-tilante-a9719b257/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rounak_tilante)
+[![Email Me](https://img.shields.io/badge/-Email%20Me-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:Rounaktilante924@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rounak-tilante-a9719b257/)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com/rounak_tilante)
 
 </div>
 
