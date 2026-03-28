@@ -27,7 +27,7 @@
 
 Hi! I'm **Rounak Kumar Tilante**, a passionate and driven **Aspiring Data Scientist** from **Hyderabad, India** 📍
 
-I recently completed my **B.Tech in Computer Science** and a **Data Science Internship at INFOZ IT Solutions**, where I worked on real-world data problems — from cleaning 10K+ record datasets to building predictive ML models and interactive Power BI dashboards.
+I recently completed my **B.Tech in Computer Science** and a **Data Science Internship at INFOZ IT Solutions**, where I worked on real-world data problems — from cleaning 50K+ record datasets to building predictive ML models and interactive Power BI dashboards.
 
 I love finding patterns in messy data, building models that solve actual problems, and communicating insights through clean visualizations. I'm now actively seeking my first full-time role where I can contribute, grow, and keep learning every day.
 
@@ -42,7 +42,6 @@ I love finding patterns in messy data, building models that solve actual problem
 - 💬 Ask me about **Python, SQL, Power BI, EDA, Predictive Modelling & Scikit-learn**
 - 📫 How to reach me: **Rounaktilante924@gmail.com**
 - 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: **I improved a flight fare model's accuracy by 15% just through feature engineering — no extra data needed!**
 
 ---
 
