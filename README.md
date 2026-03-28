@@ -1,20 +1,21 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rounak%20Kumar%20Tilante&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Analytics%20Expert&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rounak%20Kumar%20Tilante&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Building+ML+models+that+actually+work+%F0%9F%A4%96;From+SQL+queries+to+Power+BI+dashboards+%F0%9F%92%BB;IIT+Guwahati+Certified+Data+Scientist+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Building+ML+models+that+actually+work+%F0%9F%A4%96;From+SQL+queries+to+Power+BI+dashboards+%F0%9F%92%BB;Fresher+%7C+Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Socials -->
+<!-- Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=rounak2601&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views" />
   <a href="mailto:Rounaktilante924@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/rounak-tilante-a9719b257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rounak-tilante-a9719b257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rounak_tilante" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
 </p>
 
@@ -22,21 +23,26 @@
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-```python
-rounak = {
-    "name"       : "Rounak Kumar Tilante",
-    "location"   : "Hyderabad, India 📍",
-    "role"       : "Data Scientist & Data Analyst",
-    "education"  : "B.Tech — Computer Science (CGPA: 7.56)",
-    "certified"  : "IIT Guwahati | Data Science Program 🏆",
-    "passion"    : ["Predictive Modelling", "EDA", "BI Dashboards", "ML"],
-    "status"     : "🟢 Actively looking for opportunities"
-}
-```
+Hi! I'm **Rounak Kumar Tilante**, a passionate and driven **Aspiring Data Scientist** from **Hyderabad, India** 📍
 
-> *I don't just analyze data — I make it tell a story that drives decisions.*
+I recently completed my **B.Tech in Computer Science** and a **Data Science Internship at INFOZ IT Solutions**, where I worked on real-world data problems — from cleaning 10K+ record datasets to building predictive ML models and interactive Power BI dashboards.
+
+I love finding patterns in messy data, building models that solve actual problems, and communicating insights through clean visualizations. I'm now actively seeking my first full-time role where I can contribute, grow, and keep learning every day.
+
+---
+
+## 🚀 Quick Facts
+
+- 🔭 I'm currently working on **expanding my ML project portfolio and exploring deep learning**
+- 🌱 I'm currently learning **Advanced Machine Learning, Deep Learning & Data Pipeline concepts**
+- 👯 I'm looking to collaborate on **Data Science, EDA, or Dashboard projects**
+- 🤔 I'm looking for help with **breaking into the Data Science industry as a fresher**
+- 💬 Ask me about **Python, SQL, Power BI, EDA, Predictive Modelling & Scikit-learn**
+- 📫 How to reach me: **Rounaktilante924@gmail.com**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: **I improved a flight fare model's accuracy by 15% just through feature engineering — no extra data needed!**
 
 ---
 
@@ -67,57 +73,28 @@ rounak = {
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🛒 Blinkit Sales Performance Dashboard
-> **SQL · Power BI · DAX** &nbsp;|&nbsp; Dec 2025 – Jan 2026
+**🔬 Data Science Intern — INFOZ IT Solutions** &nbsp;|&nbsp; *Aug 2025 – Feb 2026*
+- Cleaned and preprocessed **10K+ records** using Python (Pandas, NumPy) for analysis-ready datasets
+- Performed **EDA & statistical analysis** using Matplotlib and Seaborn; delivered insights via Power BI dashboards
+- Built **ML predictive models** with Scikit-learn; improved accuracy by **15%** through hyperparameter tuning
 
-- 📦 Processed **10,000+ sales records** using SQL across multiple joined tables
-- 📊 Built **8+ DAX measures & KPIs** — Total Sales, Avg Sales, Item Count, Avg Rating
-- 🎯 Delivered **10+ interactive visualizations & slicers** for real-time business insights across outlet size, location tier, item category & establishment year
-
----
-
-### ✈️ Flight Fare Prediction System
-> **Python · Scikit-learn · Streamlit · Pandas** &nbsp;|&nbsp; Jan 2026 – Feb 2026
-
-- 🤖 Built a **Random Forest model** achieving **83% accuracy** on 10,000+ flight records
-- 🔧 Engineered **10+ features** & encoded categorical variables — boosted performance by **15%**
-- 🖥️ Deployed a **Streamlit dashboard** for real-time fare prediction & interactive data exploration
-
----
-
-## 💼 Experience Snapshot
-
-| Role | Company | Period | Highlight |
-|------|---------|--------|-----------|
-| 🔬 **Data Science Intern** | INFOZ IT Solutions | Aug 2025 – Feb 2026 | Improved ML model accuracy by 15% via hyperparameter tuning |
-| 🐍 **Python Programming Intern** | Vital Skills | Aug – Sep 2024 | Automated data processing pipelines using Pandas & NumPy |
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🥇 Certification | Issued By |
-|---|---|
-| Data Science Internship Program | **IIT Guwahati** × Teks Academy |
-| Coursework: ML, Statistics, Data Visualization, DBMS | B.Tech — Computer Science |
-
-</div>
+**🐍 Python Programming Intern — Vital Skills** &nbsp;|&nbsp; *Aug – Sep 2024*
+- Automated data processing tasks using Python, reducing manual effort significantly
+- Applied Pandas, NumPy & Matplotlib for real-world data manipulation and exploratory analysis
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rounak2601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounak2601&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rounak2601&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -129,11 +106,15 @@ rounak = {
 💡 *I'm actively looking for Data Science / Data Analyst roles. If you're hiring or just want to talk data — let's connect!*
 
 <a href="mailto:Rounaktilante924@gmail.com">
-  <img src="https://img.shields.io/badge/Drop%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/rounak-tilante-a9719b257/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/rounak_tilante" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
