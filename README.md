@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Hi! I'm **Rounak Kumar Tilante**, a passionate and driven **Aspiring Data Scientist** from **Hyderabad, India** 📍
 
@@ -36,19 +36,19 @@ I love finding patterns in messy data, building models that solve actual problem
 
 ---
 
-## 🚀 Quick Facts
+## Quick Facts
 
-- 🔭 I'm currently working on **expanding my ML project portfolio and exploring deep learning**
-- 🌱 I'm currently learning **Advanced Machine Learning, Deep Learning & Data Pipeline concepts**
-- 👯 I'm looking to collaborate on **Data Science, EDA, or Dashboard projects**
-- 🤔 I'm looking for help with **breaking into the Data Science industry as a fresher**
-- 💬 Ask me about **Python, SQL, Power BI, EDA, Predictive Modelling & Scikit-learn**
-- 📫 How to reach me: **Rounaktilante924@gmail.com**
-- 😄 Pronouns: **He / Him**
+- I'm currently working on **expanding my ML project portfolio and exploring deep learning**
+- I'm currently learning **Advanced Machine Learning, Deep Learning & Data Pipeline concepts**
+- I'm looking to collaborate on **Data Science, EDA, or Dashboard projects**
+- I'm looking for help with **breaking into the Data Science industry as a fresher**
+- Ask me about **Python, SQL, Power BI, EDA, Predictive Modelling & Scikit-learn**
+- How to reach me: **Rounaktilante924@gmail.com**
+- Pronouns: **He / Him**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -75,20 +75,20 @@ I love finding patterns in messy data, building models that solve actual problem
 
 ---
 
-## 💼 Experience
+## Experience
 
-**🔬 Data Science Intern — INFOZ IT Solutions** &nbsp;|&nbsp; *Aug 2025 – Feb 2026*
+**Data Science Intern — INFOZ IT Solutions** &nbsp;|&nbsp; *Aug 2025 – Feb 2026*
 - Cleaned and preprocessed **10K+ records** using Python (Pandas, NumPy) for analysis-ready datasets
 - Performed **EDA & statistical analysis** using Matplotlib and Seaborn; delivered insights via Power BI dashboards
 - Built **ML predictive models** with Scikit-learn; improved accuracy by **15%** through hyperparameter tuning
 
-**🐍 Python Programming Intern — Vital Skills** &nbsp;|&nbsp; *Aug – Sep 2024*
+**Python Programming Intern — Vital Skills** &nbsp;|&nbsp; *Aug – Sep 2024*
 - Automated data processing tasks using Python, reducing manual effort significantly
 - Applied Pandas, NumPy & Matplotlib for real-world data manipulation and exploratory analysis
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rounak2601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -101,7 +101,7 @@ I love finding patterns in messy data, building models that solve actual problem
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
