@@ -68,6 +68,7 @@ Exploring where LLMs fit in — prompt design, evaluation, and applying GenAI co
 ![XGBoost](https://img.shields.io/badge/XGBoost-0C7BB3?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
 **Backend & Databases**
 
