@@ -116,3 +116,124 @@ Exploring where LLMs fit in — prompt design, evaluation, and applying GenAI co
 - [Blinkit Sales Performance Dashboard](https://github.com/rounak2601/Blinkit-PowerBI-Dashboard) — Power BI dashboard with 8+ DAX measures analyzing sales by outlet size, location tier, and category
 - [Amazon Products Dashboard](https://github.com/rounak2601/Amazon-Products-PowerBI-Dashboard) — Power BI dashboard analyzing Amazon product sales, revenue, reviews, and category performance
 
+---
+
+## Experience
+
+**Data Science Intern — INFOZ IT Solutions**
+*August 2025 – February 2026*
+
+Worked on real-world data problems end to end, from raw data to stakeholder-ready insight, as part of a cross-functional data team.
+
+- Collected, cleaned, and preprocessed 50,000+ records using Python and SQL, resolving data-quality issues and structuring datasets for downstream machine learning
+- Built and debugged machine learning models with Scikit-learn, improving prediction accuracy by 15% through hyperparameter tuning and root-cause analysis of model errors
+- Communicated model design choices and data-driven recommendations to cross-functional teams through Power BI dashboards and automated Excel reports
+
+`Python` `SQL` `Scikit-learn` `Power BI` `Pandas` `NumPy`
+
+**Generative AI Intern — GenAI for Everyone**
+*2026*
+
+- Completed a structured programme covering LLM fundamentals, prompt design, and applied GenAI workflows, strengthening the AI/ML foundation used in academic project work
+
+`LLMs` `Prompt Engineering` `GenAI`
+
+**Python Programming Intern — Vital Skills (IIT Kanpur, Techkriti)**
+*July – August 2024*
+
+- Developed Python scripts to automate data processing and analysis pipelines, reducing manual effort significantly across the team
+- Applied Pandas, NumPy, and Matplotlib for data manipulation, visualization, and exploratory data analysis on real-world datasets
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+---
+
+## Certifications
+
+**Coursera**
+
+![GenAI](https://img.shields.io/badge/GenAI%20Fundamentals-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+Covers generative AI fundamentals, prompt engineering principles, and LLM capabilities. Certificate ID: 1bexe1ziop
+
+**IIT Kanpur — Techkriti**
+
+![Python](https://img.shields.io/badge/Python%20Programming-306998?style=for-the-badge&logo=python&logoColor=white)
+
+Summer internship focused on Python automation and real-world data analysis. Certificate ID: VS-SI-819
+
+**IIT Guwahati — Teks Academy**
+
+![Data Science](https://img.shields.io/badge/Data%20Science%20Programme-7c3aed?style=for-the-badge)
+
+Structured programme covering machine learning, NLP, deep learning, and real-world project implementation.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rounak2601&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounak2601&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rounak2601/rounak2601/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+learning:
+  - Deep Learning and Neural Network architectures
+  - Data pipeline design with Apache Kafka
+  - Graph Neural Networks and graph-based ML
+
+building:
+  - Expanding ML project portfolio with production-style APIs
+  - LLM-powered applications using prompt engineering
+
+exploring:
+  - LangChain and LangGraph for agentic workflows
+  - Advanced explainable AI techniques
+
+open_to:
+  - Data Science roles
+  - AI/ML Engineering roles
+  - Data Engineering roles
+  - Prompt Engineering roles
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+Open to full-time roles in Data Science, AI/ML Engineering, and Prompt Engineering. Feel free to reach out.
+
+<a href="mailto:Rounaktilante924@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rounak-tilante-a9719b257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/rounak2601" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*Turning data into decisions, and ideas into working systems.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+</div>
