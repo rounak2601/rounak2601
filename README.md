@@ -8,6 +8,7 @@
 
 `B.Tech Computer Science` &nbsp;·&nbsp; `Hyderabad, India` &nbsp;·&nbsp; `Open to Work`
 
+
 <a href="https://www.linkedin.com/in/rounak-tilante-a9719b257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:Rounaktilante924@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/rounak2601" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -17,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=rounak2601&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=302b63" />
 
 </div>
----
+
 
 ## About Me
 
