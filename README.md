@@ -25,15 +25,20 @@
 
 ## About Me
 
-Hi, I'm Rounak Kumar Tilante.
+I'm a Computer Science graduate from Hyderabad, India, currently working as a Data Science Intern and building toward a full-time role in AI/ML or Data Science.
 
-I work across data analytics, machine learning, and AI product engineering — from cleaning raw datasets and building dashboards to designing REST APIs and prompt-engineering LLM-powered workflows. B.Tech CSE grad who likes understanding a problem end to end rather than just one piece of it.
+My work sits at the intersection of three things: making sense of messy data, building models that actually predict something useful, and shipping that work as something people can use — an API, a dashboard, or a working app.
 
-`B.Tech CSE (2025)` &nbsp;·&nbsp; `Hyderabad, India` &nbsp;·&nbsp; `Data Science Intern @ INFOZ IT Solutions` &nbsp;·&nbsp; `Open to full-time roles`
+Currently based in: `Hyderabad, India`
+Studying: `B.Tech, Computer Science (2025)`
+Working on: `Data Science Internship @ INFOZ IT Solutions`
+Status: `Open to full-time opportunities`
 
-**What I Do**
+**Where my time goes:**
 
-- **Data Analysis & BI** — turning raw datasets into dashboards and decisions using SQL, Power BI, and Excel
-- **Machine Learning** — predictive models, NLP, and ensemble methods, from EDA to explainability (SHAP)
-- **AI Product Engineering** — REST APIs, streaming pipelines, and LLM-powered workflows, built end to end
+Cleaning and modelling data — SQL queries, feature engineering, and predictive models built with Scikit-learn and XGBoost, tuned until they actually perform.
+
+Making that work usable — Power BI dashboards for stakeholders, or REST APIs (FastAPI) so a model's predictions can plug into a real application.
+
+Exploring where LLMs fit in — prompt design, evaluation, and applying GenAI concepts to practical problems rather than treating it as a buzzword.
 
