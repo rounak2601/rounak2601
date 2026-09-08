@@ -8,7 +8,6 @@
 
 `B.Tech Computer Science` &nbsp;·&nbsp; `Hyderabad, India` &nbsp;·&nbsp; `Open to Work`
 
-
 <a href="https://www.linkedin.com/in/rounak-tilante-a9719b257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:Rounaktilante924@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/rounak2601" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -18,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=rounak2601&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=302b63" />
 
 </div>
-
+---
 
 ## About Me
 
@@ -172,7 +171,7 @@ Structured programme covering machine learning, NLP, deep learning, and real-wor
 <div align="center">
 
 <img height="165" src="https://rounak-github-stats.vercel.app/api?username=rounak2601&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://rounak-github-stats.vercel.app/api/top-langs/?username=rounak2601&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://rounak-github-stats.vercel.app/api/top-langs/?username=rounak2601&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" />
 
 </div>
 
@@ -234,4 +233,3 @@ Open to full-time roles in Data Science, AI/ML Engineering, and Prompt Engineeri
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 </div>
-
