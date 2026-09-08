@@ -174,8 +174,8 @@ Structured programme covering machine learning, NLP, deep learning, and real-wor
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rounak2601&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounak2601&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://rounak-github-stats.vercel.app/api?username=rounak2601&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://rounak-github-stats.vercel.app/api/top-langs/?username=rounak2601&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
