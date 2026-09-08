@@ -95,3 +95,24 @@ Exploring where LLMs fit in — prompt design, evaluation, and applying GenAI co
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+## Projects
+
+**AI Projects**
+
+- [Real-Time Financial Fraud Detection System](https://github.com/rounak2601/FraudDetectionAI) — Fraud detection with FastAPI, Kafka streaming, and an ensemble model (XGBoost, GNN, Isolation Forest) with SHAP explainability
+- [AP Rainfall Early Warning System](https://github.com/rounak2601/AP-Rainfall-Early-Warning-System) — Monsoon rainfall early warning system for Andhra Pradesh predicting village-level rainfall and at-risk infrastructure, with automated SMS alerts
+
+**ML Projects**
+
+- [AI Music Recommender](https://github.com/rounak2601/ai-music-recommender) — Content-based recommendation engine over 57,650 songs using TF-IDF and Cosine Similarity
+- [AgroSense AI](https://github.com/rounak2601/agrosense-ai) — Crop recommendation and yield prediction across 345K+ records, deployed as a 5-page Streamlit dashboard
+- [Flight Fare Prediction System](https://github.com/rounak2601/flight-fare-predictor) — Random Forest model predicting flight fares, deployed with a Streamlit dashboard
+- [Customer Churn Analysis & Prediction](https://github.com/rounak2601/customer-churn-analysis) — Churn prediction pipeline on telecom data, identifying $2.86M in at-risk revenue
+
+**Data Analytics & BI**
+
+- [Blinkit Sales Performance Dashboard](https://github.com/rounak2601/Blinkit-PowerBI-Dashboard) — Power BI dashboard with 8+ DAX measures analyzing sales by outlet size, location tier, and category
+- [Amazon Products Dashboard](https://github.com/rounak2601/Amazon-Products-PowerBI-Dashboard) — Power BI dashboard analyzing Amazon product sales, revenue, reviews, and category performance
+
